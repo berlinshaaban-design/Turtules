@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Turtle Graphics Java OOP Project">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e2f4e9"/><stop offset="1" stop-color="#b9e6d1"/></linearGradient><linearGradient id="sh" x2="1" y2="1"><stop stop-color="#56a66f"/><stop offset="1" stop-color="#277653"/></linearGradient></defs>
+<rect width="1200" height="360" rx="25" fill="url(#bg)"/>
+<g transform="translate(205 180)">
+<ellipse cx="0" cy="112" rx="155" ry="18" fill="#2e704c" opacity=".13"/>
+<path d="M-100-34Q-157-85-169-28Q-179 12-105 25M-70 75Q-135 95-108 123Q-67 138-37 85M80 68Q143 92 123 121Q85 145 46 83M90-49Q155-89 175-34Q182 2 109 14" fill="#75bd79" stroke="#357b52" stroke-width="9" stroke-linejoin="round"/>
+<path d="M117-12Q155-58 214-42Q262-28 258 13Q247 55 189 50L127 28" fill="#91ce87" stroke="#357b52" stroke-width="9"/>
+<circle cx="216" cy="-8" r="9" fill="#204637"/><circle cx="219" cy="-11" r="3" fill="white"/>
+<path d="M215 26q13 10 25-1" fill="none" stroke="#377454" stroke-width="5" stroke-linecap="round"/>
+<ellipse rx="131" ry="96" fill="url(#sh)" stroke="#276847" stroke-width="12"/>
+<path d="M-66-74L-14-91L41-67L74-14L53 52L0 85L-61 52L-82-12Z" fill="#8acb83" stroke="#2a7753" stroke-width="8"/>
+<path d="M-14-91L-11-19L-82-12M-11-19L74-14M-11-19L0 85M-61 52L53 52" fill="none" stroke="#2a7753" stroke-width="7"/>
+</g>
+<text x="475" y="164" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="700" fill="#225a43">Turtle Simulation</text>
+<text x="480" y="221" font-family="Arial,Helvetica,sans-serif" font-size="32" fill="#3d785c">Java  •  Object-Oriented Programming</text>
+<path d="M480 248H1032" stroke="#7ebb9a" stroke-width="5" stroke-linecap="round"/>
+</svg>
