@@ -1,3 +1,5 @@
+![Turtle Simulation — Java OOP](assets/turtle-banner.svg)
+
 # Turtle Simulation — Java OOP Project
 
 **Academic Java Project | Object-Oriented Programming**
